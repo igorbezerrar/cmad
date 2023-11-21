@@ -1,7 +1,6 @@
-# Algorithm for building the CMAD: A Dataset of Conflicting Marks from the Brazilian Intellectual Property Office
+# CMAD: A Dataset of Conflicting Marks from the Brazilian Intellectual Property Office
 
-CMAD is a dataset with several cases of conflicts between marks that have applied for registration with the INPI. This dataset groups together cases of conflicts between marks that have had their application rejected because they conflict on grounds of similarity, whether nominative, phonetic, visual and/or ideological.
-
+This code was used to create the CMAD (acronym for Conflicting Marks Archive Dataset), which is a dataset focused on litigation cases for trademark similarity experiments. This dataset has been meticulously organized into pairs of marks involved in conflicts of copyright infringement between word, figurative and mixed marks. Marks sought registration with the National Institute of Industrial Property (INPI) in Brazil, and had their applications denied after analysis by intellectual property specialists.
 
 
 
@@ -72,7 +71,7 @@ $ pip install selenium
 
 ```
 
-The algorithm collects the following information about mark
+The algorithm collects the following information about marks:
 
 ### Table of Columns
 | Field Name | Description | Type |
@@ -91,11 +90,11 @@ The algorithm collects the following information about mark
 
 
 
-### [Repository](https://github.com/igorbezerrar/cmad)
+### [Zenodo](https://github.com/igorbezerrar/cmad)
 
 ## 🤖 For more details, see our article on MDPI Data
 
-### [MDPI Data](https://ieeexplore.ieee.org/abstract/document/10178808)
+### [MDPI Data](https://www.mdpi.com/journal/data)
 
 
 ## 👏 Contributing
