@@ -89,8 +89,9 @@ The algorithm collects the following information about marks:
 | Magazine | Magazine publication number. | Text |
 
 
+## 🤖 Consult our dataset via the link on zenodo
 
-### [Zenodo](https://github.com/igorbezerrar/cmad)
+### [Zenodo](https://doi.org/10.5281/zenodo.10182880)
 
 ## 🤖 For more details, see our article on MDPI Data
 
