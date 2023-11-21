@@ -101,7 +101,7 @@ The algorithm collects the following information about marks:
 ## 👏 Contributing
  
 
-CMAD is an open-source project. If there is a bug, or other improvement you would like to report or request, we encourage you to contribute.
+CMAD code is an open-source project. If there is a bug, or other improvement you would like to report or request, we encourage you to contribute.
 
 Please, feel free to contact us for any questions: [![Gmail Badge](https://img.shields.io/badge/-igor.bezerra@lsdi.ufma.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igor.bezerra@lsdi.ufma.br)](mailto:igor.bezerra@lsdi.ufma.br)
 
